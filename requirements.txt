@@ -1,6 +1,6 @@
 ncon
-qiskit-aer==0.11.2
-qiskit-terra>=0.25.1
+qiskit-aer==0.11
+qiskit>=0.44, <1
 quimb
 tensornetwork
 tensorflow
